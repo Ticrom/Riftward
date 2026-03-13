@@ -1,0 +1,12 @@
+{
+  "type": "code",
+  "modid": "riftward",
+  "name": "Riftward",
+  "description": "Wall-style world border that stops players instead of teleporting them. Supports square and circle borders.",
+  "side": "Server",
+  "version": "1.0.0",
+  "authors": ["trevo"],
+  "dependency": {
+    "game": "1.21.0"
+  }
+}
