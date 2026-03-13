@@ -51,7 +51,7 @@ If you don't set either radius option, it defaults to half the map size.
 
 Requires .NET 8 SDK and a Vintage Story installation.
 
-1. Update the `VSInstall` path in `BetterWorldBorder.csproj` to point to your VS install.
+1. Update the `VSInstall` path in `Riftward.csproj` to point to your VS install.
 2. `dotnet build -c Release`
 3. Output lands in `bin/Release/Mods/mod/`. Zip the contents for distribution.
 
